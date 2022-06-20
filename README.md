@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn and practice about web programming
 - 🌱 I’m currently learning how to use react and JS for backend
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can collaborate with me if yo want, brandonf2345@gmail.com
+- 📫 You can collaborate with me if you want, brandonf2345@gmail.com
 
 <!---
 Redevil15/Redevil15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
