@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Redevil15, just a guy who loves programming
 - 👀 I’m interested in learn and practice about web programming
-- 🌱 I’m currently learning how to use react and JS for backend
+- 🌱 I’m currently learning about latest technologies for Fullstack development
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can collaborate with me if you want, brandonf2345@gmail.com
 
