@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a FullStack software Engineer with passion for web development<br>🌱 I’m currently learning react bes practices <br>💬 Ask me about whatever you whant<br>
+🔭 I’m a FullStack software Engineer with passion for web development<br>🌱 I’m currently learning react best practices <br>💬 Ask me about whatever you whant<br>
 
 
 ## 🌐 Socials:
